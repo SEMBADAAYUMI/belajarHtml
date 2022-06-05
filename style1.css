@@ -1,0 +1,23 @@
+body {
+  background-color: #fafafa;
+  line-height: 1.5;
+  margin-left: 20px;
+  font-size: 20px;
+}
+button {
+  background-color: aqua;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: medium;
+}
+label {
+  margin-left: 2px;
+}
+input {
+  font-size: medium;
+  position: absolute;
+  left: 8%;
+}
+h1 {
+  color: darkgrey;
+}
